@@ -20,7 +20,7 @@ body {
                 inset 0 -7px 10px rgba(255,255,255,.1),
                 0 17px 10px rgba(0,0,0,0.5),
                 inset 0 10px 10px rgba(0,0,0,0.3);
-    background: url(clock.png);
+    background: url(../image/clock.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
